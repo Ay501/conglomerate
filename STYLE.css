@@ -1,0 +1,158 @@
+.page1{
+    text-align: center;
+    background-color: darkgoldenrod;
+    border-radius: 7px;
+    
+
+
+}
+.page1 h1{
+    color:white;
+    font-family: cursive;
+}
+.page1 p{
+color: white;
+font-style: italic;
+font-family: cursive;
+
+}
+
+.page2{
+    background-color: rgb(131, 211, 187);
+    height: 600px;
+    position: relative;
+    width: 80%;
+    margin-left: 50px;
+    border-radius: 15px;
+    
+
+}
+
+.page2 img{
+    width: 500px;
+    height:550px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.pic{
+    position: absolute;
+    top: 5%;
+    left: 65%;
+
+}
+
+.pic p{
+    color: rgba(17, 15, 17, 0.795);
+    font-size: 20px;
+    letter-spacing: 2px;
+
+}
+
+.pic h2{
+    color: rgba(5, 5, 199, 0.938);
+    font-family: fantasy;
+    font-size: 30px;
+    
+}
+
+
+.table{
+    background-color: orchid; height: 680px;
+    width: 80%;
+    margin-left: 50px;
+    padding-top: 10px;
+    margin-top: 15px;
+    border-radius: 15px;
+    text-align: left ;
+    color: rgb(14, 6, 6);
+    
+}
+.table h3{
+    color: red;
+font-size: 27px;}
+
+.table table{
+    width: 600px;
+    height:520px;
+    margin-left: 148px;
+    background-color: seashell;
+    margin-top: 15px;
+    
+}
+.table table th{
+    text-align: left;
+    padding: 8px;
+
+}
+.table table td{
+    text-align: left;
+    padding: 8px;
+    
+}
+.time{
+    padding-right: 10px;
+}
+
+
+.table table,th,tr,td{
+    border: 1px solid rgb(52, 38, 248);
+    border-collapse: collapse;
+}
+.table tr:nth-child(even){
+    background-color: lightpink;
+}
+.table th{
+    background-color: lightsteelblue;
+}
+
+
+
+.page3{
+    background-color: steelblue;
+    width: 80%;
+    margin-left: 50px;
+    padding-top: 10px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.page3 h4{
+    font-size: 24px;
+    font-family: sans-serif;
+    color: sandybrown;
+}
+.page3 img{
+    width: 500px;
+    height: 550px;
+    margin-left: 150px;
+    margin-top: 10px;
+
+
+}
+
+.page3 caption{
+    font-family: cursive;
+    
+}
+
+.page4{
+    background-color: rgb(179, 174, 174);
+    width: 80%;
+    margin-left: 50px;
+    padding-top: 10px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.page4 h5{
+    font-size: 20px;
+    font-family: cambria; color: red;
+}
+
+.page4 p1,p2,p3,p4,p5{
+    color: red;
+}
+
+
+
+
+
+
